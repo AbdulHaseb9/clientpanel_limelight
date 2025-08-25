@@ -1,0 +1,16 @@
+/*  Poppins Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+/*  Volkhov Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-mlg: 425px;
+  --color-primary: #32cd32;
+  --color-secondary: #adff2f;
+  --color-background: #f1f1f1;
+  --color-text: #5e6282;
+  --color-bgLight: #2a4151;
+  --font-VolkHov: "Volkhov", "serif";
+}
